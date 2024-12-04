@@ -1,6 +1,9 @@
 import heartImage from "../assets/heart.png";
+import { useNavigate } from "react-router-dom";
 
 const LandingPage = () => {
+  const navigate = useNavigate();
+  
   return (
     <div className="min-h-screen bg-gradient-to-b from-pink-500 via-pink-300 to-pink-100 flex flex-col items-center justify-center text-center p-6">
       {/* Mensagem de boas-vindas */}
@@ -23,7 +26,7 @@ const LandingPage = () => {
       {/* Botão para avançar */}
       <div className="mt-12">
         <button
-          onClick={() => (window.location.href = "/timeline")}
+          onClick={() => navigate("/timeline")}
           className="px-8 py-4 bg-white text-pink-600 font-bold text-lg rounded-full shadow-xl hover:bg-pink-200 transition-transform transform hover:scale-105 focus:ring-4 focus:ring-pink-300"
         >
           Vê o que preparei 🌟
