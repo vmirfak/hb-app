@@ -1,6 +1,7 @@
 import { useState } from "react";
-
+import { useNavigate } from "react-router-dom";
 const TimeLine = () => {
+  const navigate = useNavigate();
   const events = [
     {
       date: "01/01/2023",
@@ -37,12 +38,7 @@ const TimeLine = () => {
   const [selectedEvent, setSelectedEvent] = useState<null | (typeof events)[0]>(
     null
   );
-  const [showTransition, setShowTransition] = useState(false);
-
-  const handleNextPage = () => {
-    setShowTransition(true);
-      window.location.href = "/gallery";
-  };
+  const [showTransition] = useState(false);
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-pink-500 to-pink-300 flex flex-col items-center p-6">
@@ -119,7 +115,7 @@ const TimeLine = () => {
         className={`flex flex-col items-center justify-center cursor-pointer transform transition ${
           showTransition ? "scale-0 opacity-0" : "scale-100 opacity-100"
         }`}
-        onClick={handleNextPage}
+        onClick={() => navigate("/gallery")}
       >
         {/* Coração pulsante */}
         <div className="relative w-20 h-20 bg-pink-400 rounded-full flex items-center justify-center animate-pulse">
