@@ -2,6 +2,11 @@ import { useState } from "react";
 import moment1 from "../assets/moment1.jpg";
 import moment2 from "../assets/moment2.jpg";
 import moment3 from "../assets/moment3.jpg";
+import moment4 from "../assets/moment4.jpg";
+import moment5 from "../assets/moment5.jpg";
+import moment6 from "../assets/moment6.jpg";
+import moment7 from "../assets/moment7.jpg";
+import moment8 from "../assets/moment8.jpg";
 import { useNavigate } from "react-router-dom";
 
 const Gallery = () => {
@@ -23,6 +28,26 @@ const Gallery = () => {
     },
     {
       src: moment3,
+      description: "O nosso primeiro aniversário juntos. Um dia perfeito.",
+    },
+    {
+      src: moment4,
+      description: "O nosso primeiro aniversário juntos. Um dia perfeito.",
+    },
+    {
+      src: moment5,
+      description: "O nosso primeiro aniversário juntos. Um dia perfeito.",
+    },
+    {
+      src: moment6,
+      description: "O nosso primeiro aniversário juntos. Um dia perfeito.",
+    },
+    {
+      src: moment7,
+      description: "O nosso primeiro aniversário juntos. Um dia perfeito.",
+    },
+    {
+      src: moment8,
       description: "O nosso primeiro aniversário juntos. Um dia perfeito.",
     },
   ];

@@ -20,7 +20,7 @@ const Congrats = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-pink-5   00 to-pink-300 p-6 flex flex-col items-center justify-center">
+    <div className="min-h-screen bg-gradient-to-b from-pink-500 to-pink-300 p-6 flex flex-col items-center justify-center">
       <h1 className="text-4xl md:text-5xl font-bold text-white mb-10 drop-shadow-lg">
         Parabéns, meu amor! 
       </h1>
