@@ -31,7 +31,7 @@ const Congrats = () => {
 
       <p className="text-white text-md md:text-lg mt-10 text-center leading-relaxed">
         Amo-te mais do que as palavras podem descrever. Hoje e sempre, sou grato por ter-te na minha vida.  
-        Que este dia seja tão especial quanto tu és para mim. Feliz aniversário! 🥰  
+        Que este dia seja tão especial quanto tu és para mim. Feliz aniversário!! 🥰  
       </p>
     </div>
   );
