@@ -4,34 +4,52 @@ const TimeLine = () => {
   const navigate = useNavigate();
   const events = [
     {
-      date: "01/01/2023",
+      date: "11 de Outubro de 2023",
       title: "O Dia em que Te Conheci",
       details:
-        "Foi um dia inesquecível onde tudo começou. O teu sorriso iluminou o meu mundo!",
+        "Primeiro dia de formação e lá estávamos nós. De todos os detalhes, lembro-me mais da tua cara vermelha de vergonha",
     },
     {
-      date: "14/02/2023",
-      title: "O Nosso Primeiro Dia dos Namorados",
+      date: "24 de Novembro de 2023",
+      title: "O dia em que falámos pela primeira vez",
       details:
-        "Lembras-te daquele jantar romântico e as flores que te dei? Foi só o início de tudo o que quero partilhar contigo.",
+        "O dia em que eu falei contigo pela primeira vez! O dia em que te mandei mensagem e não respondeste!",
     },
     {
-      date: "10/06/2023",
-      title: "A Nossa Viagem Incrível",
+      date: "29 de Novembro de 2023",
+      title: "O dia em que me respondeste à mensagem, finalmente!",
       details:
-        "Aquela viagem marcou para sempre as nossas memórias. És a minha companheira de aventuras!",
+        "O dia em que a minha esperança no mundo regressou, o dia em que a paz foi restaurada e o dia em que eu não me senti ignorado.",
+    },
+    {
+      date: "17 de Dezembro de 2023",
+      title: "O nosso primeiro encontro",
+      details:
+        "Disse-te que estava um dia lindo de sol e perguntei-te se querias dar uma volta. O dia em que alguém me conduziu pela primeira vez, o dia em que usei o Azzaro - The Most Wanted, o dia em que falámos durante quase 4 horas seguidas, o dia em que falámos pela primeira vez pessoalmente mas que sentimos que nos conhecíamos há eternidades!",
+    },
+    {
+      date: "28 de Dezembro de 2023",
+      title: "O nosso primeiro beijo",
+      details:
+        "O dia que me pediste desculpa dizendo 'Desculpa, mas não resisti'",
+    },
+    {
+      date: "9 de Fevereiro de 2024",
+      title: "A nossa primeira vez",
+      details:
+        "Um dos momentos mais marcantes, porque foi a primeira vez que achávamos que não eramos compatíveis. Não foi tão mau quanto achámos na altura. Foi também a primeira noite em que dormimos juntos.",
+    },
+    {
+      date: "8 de Dezembro de 2024",
+      title: "A nossa primeira viagem juntos",
+      details:
+        "Ainda na memória recente. Os nossos primeiros dias juntos, fora do país!",
     },
     {
       date: "Hoje",
-      title: "O Teu Dia Especial",
+      title: "O teu dia",
       details:
-        "Espero que este gesto simples mostre o quanto te amo e aprecio. És única e insubstituível. 💖",
-    },
-    {
-      date: "Hoje",
-      title: "O Teu Dia Especial",
-      details:
-        "Espero que este gesto simples mostre o quanto te amo e aprecio. És única e insubstituível. 💖",
+        "Hoje todos celebramos o dia mais especial: o dia em que o mundo foi abençoado com a tua existência. Quero que saibas o quanto és importante para mim, o quanto iluminas os meus dias e tornas a minha vida mais feliz. Este gesto, por mais simples que seja, é apenas uma pequena parte de tudo o que sinto por ti. Espero que este dia seja tão especial para ti quanto és para mim. Amo-te mais do que as palavras podem descrever. 💖",
     },
   ];
 

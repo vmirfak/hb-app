@@ -1,12 +1,12 @@
 import { useState } from "react";
-import moment1 from "../assets/moment1.jpg";
+import moment1 from "../assets/moment1.jpg"
 import moment2 from "../assets/moment2.jpg";
 import moment3 from "../assets/moment3.jpg";
 import moment4 from "../assets/moment4.jpg";
 import moment5 from "../assets/moment5.jpg";
-import moment6 from "../assets/moment6.jpg";
-import moment7 from "../assets/moment7.jpg";
-import moment8 from "../assets/moment8.jpg";
+import moment6 from "../assets/moment6.jpeg";
+import moment7 from "../assets/moment7.jpeg";
+import moment8 from "../assets/moment8.jpeg";
 import { useNavigate } from "react-router-dom";
 
 const Gallery = () => {
@@ -21,34 +21,34 @@ const Gallery = () => {
 
   const images = [
     { src: moment1, 
-        description: "Nosso primeiro encontro. Foi mágico!" },
+        description: "A nossa primeiríssima foto juntos!" },
     {
       src: moment2,
-      description: "A nossa viagem para a praia. Momentos inesquecíveis.",
+      description: "A nossa primeira foto digna de foto de álbum de fotografias pré-casamento. Linda!",
     },
     {
       src: moment3,
-      description: "O nosso primeiro aniversário juntos. Um dia perfeito.",
+      description: "A nossa primeira foto de um conjunto de dias juntos.",
     },
     {
       src: moment4,
-      description: "O nosso primeiro aniversário juntos. Um dia perfeito.",
+      description: "Estamos sempre prontos para uma boa francesinha!",
     },
     {
       src: moment5,
-      description: "O nosso primeiro aniversário juntos. Um dia perfeito.",
+      description: "O nosso primeiro concerto dos Calema juntos.",
     },
     {
       src: moment6,
-      description: "O nosso primeiro aniversário juntos. Um dia perfeito.",
+      description: "O nosso dia de Spa. Que bem que soube!",
     },
     {
       src: moment7,
-      description: "O nosso primeiro aniversário juntos. Um dia perfeito.",
+      description: "A nossa primeira fotos juntos fora do país!",
     },
     {
       src: moment8,
-      description: "O nosso primeiro aniversário juntos. Um dia perfeito.",
+      description: "Nós e o nosso gosto por coisinhas doces!",
     },
   ];
 
@@ -79,7 +79,7 @@ const Gallery = () => {
         O Próximo Capítulo 💕
       </h1>
       <p className="text-lg md:text-xl text-white mb-6 text-center px-4">
-        Cada imagem aqui conta uma história. Clica nas cartas para reviver esses
+        Cada imagem aqui conta uma história. Clica em todas as cartas para reviver esses
         momentos! 💖
       </p>
 
