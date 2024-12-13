@@ -16,7 +16,7 @@ const Congrats = () => {
         <br />
         <br />
         Amo as nossas brincadeiras, as nossas conversas que duram horas, os abraços que parecem parar o tempo, e os pequenos detalhes que só nós dois entendemos.  
-        Cada memória construída contigo é um presente que guardo com carinho.  
+        Cada memória construída contigo é um presente que guardo com muito carinho.  
       </p>
 
       <p className="text-lg md:text-xl text-white mb-10 text-center px-4 leading-relaxed">
