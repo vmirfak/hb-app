@@ -3,24 +3,25 @@ import { useNavigate } from "react-router-dom";
 
 const LandingPage = () => {
   const navigate = useNavigate();
-  
+
   return (
     <div className="min-h-screen bg-gradient-to-b from-pink-500 via-pink-300 to-pink-100 flex flex-col items-center justify-center text-center p-6">
       {/* Mensagem de boas-vindas */}
       <h1 className="text-5xl font-extrabold text-white drop-shadow-md animate-fadeIn">
-  Parabéns <span className="relative text-red-500">
-    <span className="line-through decoration-4 decoration-red-600">
-      Cláudia
-    </span>
-    <span className="absolute left-0 top-0 w-full h-full animate-pulse opacity-20">
-      &nbsp;
-    </span>
-  </span>, Amor da minha vida! 💖
-</h1>
-
-
+        Parabéns{" "}
+        <span className="relative text-red-500">
+          <span className="line-through decoration-4 decoration-red-600">
+            Cláudia
+          </span>
+          <span className="absolute left-0 top-0 w-full h-full animate-pulse opacity-20">
+            &nbsp;
+          </span>
+        </span>{" "}
+        Amor da minha vida! 💖
+      </h1>
       <p className="text-xl text-white mt-6 mb-12 font-light">
-        Este é um espaço especial feito com <span className="font-semibold italic">MUITO</span> carinho só para ti.
+        Este é um espaço especial feito com{" "}
+        <span className="font-semibold italic">MUITO</span> carinho só para ti.
       </p>
 
       {/* Imagem animada */}

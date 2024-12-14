@@ -7,49 +7,49 @@ const TimeLine = () => {
       date: "11 de Outubro de 2023",
       title: "O Dia em que Te Conheci",
       details:
-        "Primeiro dia de formação e lá estávamos nós. De todos os detalhes, lembro-me mais da tua cara vermelha de vergonha",
+        "Ah, o início de tudo! Primeiro dia de formação, e lá estavas tu, com aquele ar misterioso de quem esconde segredos do FBI. Eu? Totalmente distraído, mas depois olhei para ti, vi a tua cara vermelha de vergonha, e pensei: 'Ora aí está alguém que tem medo de socializar tanto quanto eu!' Um misto de mistério e fofura, difícil de esquecer.",
     },
     {
       date: "24 de Novembro de 2023",
       title: "O dia em que falámos pela primeira vez",
       details:
-        "O dia em que eu falei contigo pela primeira vez! O dia em que te mandei mensagem e não respondeste!",
+        "Finalmente, o dia em que tomei coragem para te mandar mensagem. Resultado? Não respondeste. Quem diria que a tua estratégia de difícil começava logo no primeiro contacto? 😭",
     },
     {
       date: "29 de Novembro de 2023",
       title: "O dia em que me respondeste à mensagem, finalmente!",
       details:
-        "O dia em que a minha esperança no mundo regressou, o dia em que a paz foi restaurada e o dia em que eu não me senti ignorado.",
+        "'Aleluia, irmãos!' A paz foi restaurada, a esperança voltou e, naquele momento, senti-me um vencedor da lotaria do afeto. O mundo voltou a girar 🌍",
     },
     {
       date: "17 de Dezembro de 2023",
       title: "O nosso primeiro encontro",
       details:
-        "Disse-te que estava um dia lindo de sol e perguntei-te se querias dar uma volta. O dia em que alguém me conduziu pela primeira vez, o dia em que usei o Azzaro - The Most Wanted, o dia em que falámos durante quase 4 horas seguidas, o dia em que falámos pela primeira vez pessoalmente mas que sentimos que nos conhecíamos há eternidades!",
+        "Convidei-te para um passeio e acabaste por me levar à Póvoa de Varzim. Sol, mar e conversa que parecia não ter fim. Estavas impecável (como sempre, mas naquele dia foste um nível acima): uma saia florida da Shein e botas pretas de cano alto – combinadas na perfeição, claro, porque tu não falhas no estilo. Foram 4 horas de partilha (e alguns olhares cúmplices que fingimos não notar), e tudo parecia natural, como se já nos conhecêssemos há anos. O ponto alto? O facto de te teres oferecido para conduzir, e eu ter percebido que estava ao lado da piloto mais charmosa que já conheci.",
     },
     {
       date: "28 de Dezembro de 2023",
       title: "O nosso primeiro beijo",
       details:
-        "O dia que me pediste desculpa dizendo 'Desculpa, mas não resisti'",
+        "O dia que me pediste desculpa dizendo 'Desculpa, mas não resisti'. E eu a pensar: 'Resistir? Mas a fila está aberta há semanas!' Foi inesperado.",
     },
     {
       date: "9 de Fevereiro de 2024",
       title: "A nossa primeira vez",
       details:
-        "Um dos momentos mais marcantes, porque foi a primeira vez que achávamos que não eramos compatíveis. Não foi tão mau quanto achámos na altura. Foi também a primeira noite em que dormimos juntos.",
+        "A primeira vez é sempre... uma aventura. Achámos que não éramos compatíveis e que aquilo tinha sido uma fusão entre desastre natural e comédia romântica. Mas, no final, percebemos que até nos desastres há beleza. E, claro, foi a primeira noite em que dormimos juntos (ou tentámos, porque o nervosismo não deixou muito espaço para descanso).",
     },
     {
       date: "8 de Dezembro de 2024",
       title: "A nossa primeira viagem juntos",
       details:
-        "Ainda na memória recente. Os nossos primeiros dias juntos, fora do país!",
+        "Malas feitas e lá fomos nós para a Bélgica em pleno dezembro, com o objetivo claro: conquistar os mercados de Natal de Bruges, Gent e Bruxelas. Foi uma verdadeira aventura natalícia, com luzes a piscar, cheiros de comida deliciosa no ar e muita vontade de provar tudo. E, como bons gulosos, não dececionámos: comemos todos os docinhos possíveis e brindámos com cervejas saborosas que faziam parecer que o frio nem existia. Uma viagem cheia de magia, calor humano e uns quilinhos a mais – mas quem é que se importa, não é?",
     },
     {
       date: "Hoje",
       title: "O teu dia",
       details:
-        "Hoje todos celebramos o dia mais especial: o dia em que o mundo foi abençoado com a tua existência. Quero que saibas o quanto és importante para mim, o quanto iluminas os meus dias e tornas a minha vida mais feliz. Este gesto, por mais simples que seja, é apenas uma pequena parte de tudo o que sinto por ti. Espero que este dia seja tão especial para ti quanto és para mim. Amo-te mais do que as palavras podem descrever. 💖",
+        "Hoje é o dia mais especial: o dia em que o mundo foi abençoado com a tua existência (e as farmácias com o teu choro ao nascer). Quero que saibas que és a luz da minha vida, mesmo quando levas horas para sair de casa. Este gesto, por mais simples que seja, é só um lembrete de que te amo mais do que pizza, cerveja e passeios na praia em dias de sol. Feliz aniversário, amor! 💖",
     },
   ];
 

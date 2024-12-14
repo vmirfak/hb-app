@@ -7,6 +7,8 @@ import moment5 from "../assets/moment5.jpg";
 import moment6 from "../assets/moment6.jpeg";
 import moment7 from "../assets/moment7.jpeg";
 import moment8 from "../assets/moment8.jpeg";
+import moment9 from "../assets/moment9.jpg";
+import moment10 from "../assets/moment10.jpg";
 import { useNavigate } from "react-router-dom";
 
 const Gallery = () => {
@@ -24,11 +26,11 @@ const Gallery = () => {
         description: "A nossa primeiríssima foto juntos!" },
     {
       src: moment2,
-      description: "A nossa primeira foto digna de foto de álbum de fotografias pré-casamento. Linda!",
+      description: "A nossa primeira foto digna de se emoldurar e de pôr no álbum de fotografias pré-casamento. Linda!",
     },
     {
       src: moment3,
-      description: "A nossa primeira foto de um conjunto de dias juntos.",
+      description: "A nossa primeira foto num fim-de-semana juntos. Que calor do caralho! 🔥",
     },
     {
       src: moment4,
@@ -44,11 +46,19 @@ const Gallery = () => {
     },
     {
       src: moment7,
-      description: "A nossa primeira fotos juntos fora do país!",
+      description: "A nossa primeira fotos juntos fora do país! Não é a foto onde estamos ais lindos e com a melhor pose, mas é marcante!",
     },
     {
       src: moment8,
       description: "Nós e o nosso gosto por coisinhas doces!",
+    },
+    {
+      src: moment9,
+      description: "Nós e a nossa vontade constante de andarmos sempre aos beijinhos. Mais uma foto para emoldurar!",
+    },
+    {
+      src: moment10,
+      description: "Tu e e teu gosto por churro(s)! 😏",
     },
   ];
 
