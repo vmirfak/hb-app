@@ -35,14 +35,14 @@ const Congrats = () => {
         insubstituível. 💕
       </p>
 
-      <p className="text-white text-md md:text-lg text-justify leading-relaxed">
+      <p className="text-lg md:text-xl text-white mb-10 text-justify px-4 leading-relaxed">
         Amo-te mais do que as palavras podem descrever. Hoje e sempre, sou grato
         por ter-te na minha vida. Que este dia seja tão especial quanto tu és
         para mim.
       </p>
-      <p className="text-white text-md md:text-lg text-justify leading-relaxed">
+      <p className="text-lg md:text-xl text-white mb-10 text-justify px-4 leading-relaxed">
         Que o teu dia seja tão brilhante quanto o teu sorriso e tão inesquecível
-        quanto tudo o que és. Feliz aniversário!! 🥰
+        quanto tudo o que és para mim. Feliz aniversário, mulher da minha vida!! 🥰
       </p>
     </div>
   );

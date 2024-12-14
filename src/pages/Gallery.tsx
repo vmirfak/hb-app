@@ -46,7 +46,7 @@ const Gallery = () => {
     },
     {
       src: moment7,
-      description: "A nossa primeira fotos juntos fora do país! Não é a foto onde estamos ais lindos e com a melhor pose, mas é marcante!",
+      description: "A nossa primeira foto juntos fora do país! Não é a foto onde estamos mais lindos e com a melhor pose, mas é marcante!",
     },
     {
       src: moment8,
